@@ -100,7 +100,8 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 ## Fork this repository
 
-Fork this repository by clicking on the fork button on the top of this page.
+Fork this repo by clicking on the fork button on the top of this page.
+Now let's make a copy on your local system.
 This will create a copy of this repository in your account.
 
 ## Clone the repository
